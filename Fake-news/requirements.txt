@@ -16,7 +16,7 @@ backports.shutil-get-terminal-size==1.0.0
 beautifulsoup4==4.7.1
 bitarray==0.8.3
 bkcharts==0.2
-bleach==3.1.0
+bleach==3.1.4
 bokeh==1.0.4
 boto==2.49.0
 Bottleneck==1.2.1
@@ -44,7 +44,7 @@ defusedxml==0.5.0
 distributed==1.26.0
 dnspython==1.16.0
 docutils==0.14
-ecdsa==0.13
+ecdsa==0.13.3
 entrypoints==0.3
 et-xmlfile==1.0.1
 eventlet==0.25.1
@@ -78,7 +78,7 @@ itsdangerous==1.1.0
 jdcal==1.4
 jedi==0.13.3
 jieba3k==0.35.1
-Jinja2==2.10
+Jinja2==2.10.1
 jsonschema==3.0.1
 jupyter==1.0.0
 jupyter-client==5.2.4
@@ -114,7 +114,7 @@ nbconvert==5.4.1
 nbformat==4.4.0
 networkx==2.2
 newspaper3k==0.2.8
-nltk==3.4
+nltk==3.4.5
 nose==1.3.7
 notebook==5.7.8
 numba==0.43.1
@@ -135,14 +135,14 @@ pathlib2==2.3.3
 patsy==0.5.1
 pep8==1.7.1
 pickleshare==0.7.5
-Pillow==5.4.1
+Pillow==6.2.2
 pkginfo==1.5.0.1
 pluggy==0.9.0
 ply==3.11
 prometheus-client==0.6.0
 prompt-toolkit==2.0.9
 protobuf==3.8.0
-psutil==5.6.1
+psutil>=5.6.6
 py==1.8.0
 PyAudio==0.2.11
 pycodestyle==2.5.0
@@ -207,7 +207,7 @@ sympy==1.3
 tables==3.5.1
 tblib==1.3.2
 tensorboard==1.14.0
-tensorflow==1.14.0
+tensorflow==1.15.2
 tensorflow-estimator==1.14.0
 termcolor==1.1.0
 terminado==0.8.1
@@ -222,10 +222,10 @@ tqdm==4.31.1
 traitlets==4.3.2
 tweepy==3.8.0
 unicodecsv==0.14.1
-urllib3==1.24.1
+urllib3==1.24.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 win-inet-pton==1.1.0
 win-unicode-console==0.5
